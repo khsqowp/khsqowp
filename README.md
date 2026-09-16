@@ -13,14 +13,9 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=jibin1018&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=jibin1018&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=khsqowp&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=khsqowp&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibin1018&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khsqowp&theme=radical&hide_border=true" />
 </p>
-
-### 📫 Contact
-
-- Email: parkjibin1018@naver.com
-- Portfolio: https://myweb-nine-amber.vercel.app/
