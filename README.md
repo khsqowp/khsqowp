@@ -1,58 +1,51 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:b6215f&height=200&section=header&text=Kim%20Hansu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Security%20%7C%20Web%20Hacking%20%7C%20Automation&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6e8eb&height=190&section=header&text=Kim%20Hansu&fontSize=46&fontColor=24292f&fontAlignY=38&desc=Security%20%C2%B7%20Web%20Hacking%20%C2%B7%20Automation&descAlignY=58&descSize=15&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=520&lines=Break+it+to+understand+it.;Web+%26+Application+Security;Python+%7C+Java+%7C+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=57606A&center=true&vCenter=true&width=480&lines=Break+it+to+understand+it.;Web+%26+Application+Security;Python+%C2%B7+Java+%C2%B7+Linux" />
 </p>
 
 <p align="center">
-  <a href="https://khsqowp.github.io"><img src="https://img.shields.io/badge/Blog-b6215f?style=flat-square&logo=githubpages&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Seoul,%20KR-141321?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=khsqowp&color=b6215f&style=flat-square&label=Profile+Views" />
+  <a href="https://khsqowp.github.io"><img src="https://img.shields.io/badge/Blog-f6f8fa?style=flat-square&logo=githubpages&logoColor=24292f" /></a>
+  <img src="https://img.shields.io/badge/Seoul,%20KR-f6f8fa?style=flat-square&logo=googlemaps&logoColor=24292f" />
 </p>
 
----
+<br />
 
-### 👋 About
-
-- 🔐 웹 애플리케이션 보안과 모의해킹을 공부하고 있습니다.
-- 🤖 AI 오케스트레이션, 자동매매 등 직접 만들어 보며 배우는 것을 좋아합니다.
-- 📝 공부한 내용은 [블로그](https://khsqowp.github.io)에 기록합니다.
-
-### 🧰 Skills
+### Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python-b6215f?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-b6215f?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-b6215f?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-b6215f?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-b6215f?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square&logo=python&logoColor=24292f" />
+  <img src="https://img.shields.io/badge/Java-f6f8fa?style=flat-square&logo=openjdk&logoColor=24292f" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-f6f8fa?style=flat-square&logo=burpsuite&logoColor=24292f" />
+  <img src="https://img.shields.io/badge/Linux-f6f8fa?style=flat-square&logo=linux&logoColor=24292f" />
+  <img src="https://img.shields.io/badge/Git-f6f8fa?style=flat-square&logo=git&logoColor=24292f" />
 </p>
 
-### 📌 Projects
+### Projects
 
 <p>
-  <a href="https://github.com/khsqowp/SK_Rookies_FinalPJT"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=SK_Rookies_FinalPJT&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/khsqowp/AI_Ochestration"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=AI_Ochestration&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/khsqowp/SK_Rookies_FinalPJT"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=SK_Rookies_FinalPJT&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a&border_color=e6e8eb" /></a>
+  <a href="https://github.com/khsqowp/AI_Ochestration"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=AI_Ochestration&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a&border_color=e6e8eb" /></a>
 </p>
 <p>
-  <a href="https://github.com/khsqowp/Coin_Trade"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=Coin_Trade&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/khsqowp/khsqowp.github.io"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=khsqowp.github.io&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/khsqowp/Coin_Trade"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=Coin_Trade&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a&border_color=e6e8eb" /></a>
+  <a href="https://github.com/khsqowp/khsqowp.github.io"><img height="120" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=khsqowp&repo=khsqowp.github.io&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a&border_color=e6e8eb" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=khsqowp&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=khsqowp&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=khsqowp&show_icons=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a&border_color=e6e8eb" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=khsqowp&layout=compact&bg_color=ffffff&title_color=24292f&text_color=57606a&border_color=e6e8eb" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com/?user=khsqowp&theme=radical&hide_border=true&locale=ko&timezone=Asia/Seoul" />
+  <img src="https://streak-stats.demolab.com/?user=khsqowp&locale=ko&timezone=Asia/Seoul&background=ffffff&border=e6e8eb&stroke=e6e8eb&ring=24292f&fire=24292f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=24292f&sideLabels=57606a&dates=8c959f" />
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b6215f,100:141321&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e8eb,100:ffffff&height=90&section=footer&animation=fadeIn" />
 </p>
